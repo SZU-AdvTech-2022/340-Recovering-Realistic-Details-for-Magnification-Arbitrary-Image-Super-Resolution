@@ -1,0 +1,8 @@
+@article{REPO-341,
+    author = "Ma, Cheng and Yu, Peiqi and Lu, Jiwen and Zhou, Jie",
+    journal = "IEEE Transactions on Image Processing",
+    pages = "3669--3683",
+    title = "{Recovering Realistic Details for Magnification-Arbitrary Image Super-Resolution}",
+    volume = "31",
+    year = "2022"
+}

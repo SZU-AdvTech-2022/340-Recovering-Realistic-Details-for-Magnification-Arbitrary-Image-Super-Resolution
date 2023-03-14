@@ -1,4 +1,4 @@
-@article{REPO-341,
+@article{REPO-340,
     author = "Ma, Cheng and Yu, Peiqi and Lu, Jiwen and Zhou, Jie",
     journal = "IEEE Transactions on Image Processing",
     pages = "3669--3683",
